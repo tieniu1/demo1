@@ -1,0 +1,5 @@
+id: change_param
+language: html
+rule:
+  pattern: foo($X)
+fix: baz($X)
