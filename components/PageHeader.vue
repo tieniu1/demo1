@@ -1,6 +1,7 @@
 <template>
   <header class="page-header">
     <h1>{{ title }}</h1>
+    太神奇了。
     <nav>
       <ul>
         <li><a href="/">首页</a></li>
